@@ -2,6 +2,10 @@ a {
   font-family: 'Poppins', sans-serif;
 }
 
+.disabled-link {
+  pointer-events: none;
+}
+
 .linktreelogo {
  width: 100%;
  display: flex;
